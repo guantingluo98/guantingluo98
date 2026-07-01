@@ -7,7 +7,7 @@
 
 ## Research Interests
 
-📚 Information Extraction ⚡ Parameter-Efficient Fine-Tuning 🧠 Clinical and Biomedical Applications
+📚 Information Extraction ⚡Parameter-Efficient Fine-Tuning 🧠 Clinical and Biomedical Applications
 
 ---
 
@@ -24,13 +24,13 @@
 * **Institute of Science Tokyo** | *Research Assistant* <kbd>Apr 2026 – Present</kbd>
 * **RIKEN(理化学研究所)** | *Part-time Researcher* <kbd>Apr 2025 – Mar 2026</kbd>
 * **Institute of Science Tokyo** | *Research Assistant* <kbd>Oct 2024 – Mar 2025</kbd>
-* **Osaka University** | *Research Assistant* <kbd>Jul 2024 – Aug 2024</kbd>
+* **The University of Osaka** | *Research Assistant* <kbd>Jul 2024 – Aug 2024</kbd>
 
 ---
 
 ## Selected Publications
 
-* **[[ACL 2026] Applicability Condition Extraction for Therapeutic Drug-Disease Relations](https://arxiv.org/abs/2606.14031)**  
+* **[[ACL 2026] Applicability Condition Extraction for Therapeutic Drug-Disease Relations](https://aclanthology.org/2026.findings-acl.154/)**  
   **Guanting Luo**, Noriki Nishida, Yuji Matsumoto, Yuki Arase. *Findings of ACL 2026*.
 
 * **[[BioNLP 2025] MedSummRAG: Domain-Specific Retrieval for Medical Summarization](https://aclanthology.org/2025.bionlp-1.3/)**  
