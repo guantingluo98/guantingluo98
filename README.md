@@ -13,7 +13,7 @@
 
 ## Education
 
-* **Osaka University** — *Ph.D. in Information Science and Technology* <kbd>Oct 2023 – Present</kbd>
+* **The University of Osaka** — *Ph.D. in Information Science and Technology* <kbd>Oct 2023 – Present</kbd>
 * **University of Chinese Academy of Sciences** — *M.Eng. in Computer Technology* <kbd>Sep 2020 – Jul 2023</kbd>
 * **Nankai University** — *B.Eng. in Environmental Engineering* <kbd>Sep 2016 – Jul 2020</kbd>
 
